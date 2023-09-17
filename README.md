@@ -7,7 +7,7 @@
 ##
 Welcome to One Piece Going Marry!
 
-Faithful reproduction of the famous Going Merry from the famous anime One Piece
+Faithful reproduction of the famous Going Merry from the famous anime One Piece.
 
 Set sail on a high-seas adventure like never before with our latest FiveM map release, "Going Merry Tribute." This meticulously crafted map pays homage to the iconic pirate ship from the beloved anime and manga series, One Piece.
 
@@ -27,7 +27,7 @@ Embark on your own pirate journey and relive the magic of One Piece with the "Go
 - Showcase:  [Click Here](https://www.youtube.com/watch?v=p3TFdBJnZmA)
 
 ## DMCA Protection Certificate
-![image](https://cdn.discordapp.com/attachments/1045063739738705940/1145748817342382173/image.png)
+![image](https://media.discordapp.net/attachments/1045063739738705940/1152991194423500810/image.png)
 
 ##### Copyright © 2023 Malibú Tech. All rights reserved.
 
