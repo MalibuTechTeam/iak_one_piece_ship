@@ -9,5 +9,9 @@ description 'Faithful reproduction of the famous Going Merry from the famous ani
 
 this_is_a_map 'yes'
 
+server_scripts {
+    'core/server.lua'
+}
+
 --COORDS: -1873.65, -1293.90, 8.85
 
