@@ -58,7 +58,7 @@ jobs:
         run: |
           mkdir -p ./temp/iak_one_piece_ship
           cp ./{README.md,fxmanifest.lua} ./temp/iak_one_piece_ship
-          cp -r ./{stream} ./temp/iak_one_piece_ship
+          cp -r ./{core,stream} ./temp/iak_one_piece_ship
           cd ./temp && zip -r ../iak_one_piece_ship.zip ./iak_one_piece_ship
 
       - name: Create Release
